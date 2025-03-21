@@ -1,0 +1,445 @@
+##################################################
+Dataset: data/llmlingua2/llmlingua_narrativeqa.csv
+Compression Ratio 0.1
+Average GPU memory usage: 12293.18 MB
+Maximum GPU memory usage: 13309.98 MB
+Average F1 score: 0.11855396824342374
+Average latency: 1.818100757598877 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.11855396824342374
+Average latency (no length exceeded): 1.818100757598877 seconds
+--------------------------------------------------
+Compression Ratio 0.25 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.4
+Average GPU memory usage: 12570.03 MB
+Maximum GPU memory usage: 16931.81 MB
+Average F1 score: 0.16749077611190305
+Average latency: 2.904792104959488 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.16749077611190305
+Average latency (no length exceeded): 2.904792104959488 seconds
+--------------------------------------------------
+Compression Ratio 0.5 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.6
+Average GPU memory usage: 12763.49 MB
+Maximum GPU memory usage: 17361.25 MB
+Average F1 score: 0.17847145998739367
+Average latency: 4.181901770830154 seconds
+Number of times length exceeded: 27
+Average F1 score (no length exceeded): 0.17206041778115932
+Average latency (no length exceeded): 3.5720560523126856 seconds
+--------------------------------------------------
+Compression Ratio 0.75 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.9
+Average GPU memory usage: 12951.41 MB
+Maximum GPU memory usage: 17392.53 MB
+Average F1 score: 0.1993214867474726
+Average latency: 5.717000949382782 seconds
+Number of times length exceeded: 66
+Average F1 score (no length exceeded): 0.20033701825749115
+Average latency (no length exceeded): 4.50612150377302 seconds
+--------------------------------------------------
+##################################################
+Dataset: data/llmlingua2/llmlingua_triviaqa.csv
+Compression Ratio 0.1
+Average GPU memory usage: 12074.75 MB
+Maximum GPU memory usage: 12677.03 MB
+Average F1 score: 0.39911329058217027
+Average latency: 0.6118039512634277 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.39911329058217027
+Average latency (no length exceeded): 0.6118039512634277 seconds
+--------------------------------------------------
+Compression Ratio 0.25 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.4
+Average GPU memory usage: 12207.53 MB
+Maximum GPU memory usage: 13796.69 MB
+Average F1 score: 0.4076756854256855
+Average latency: 1.115684118270874 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.4076756854256855
+Average latency (no length exceeded): 1.115684118270874 seconds
+--------------------------------------------------
+Compression Ratio 0.5 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.6
+Average GPU memory usage: 12305.59 MB
+Maximum GPU memory usage: 14562.44 MB
+Average F1 score: 0.4173742091242091
+Average latency: 1.5630287861824035 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.4173742091242091
+Average latency (no length exceeded): 1.5630287861824035 seconds
+--------------------------------------------------
+Compression Ratio 0.75 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.9
+Average GPU memory usage: 12535.15 MB
+Maximum GPU memory usage: 15839.33 MB
+Average F1 score: 0.4062460718294051
+Average latency: 2.6769785690307617 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.4062460718294051
+Average latency (no length exceeded): 2.6769785690307617 seconds
+--------------------------------------------------
+##################################################
+Dataset: data/llmlingua2/llmlingua_hotpotqa.csv
+Compression Ratio 0.1
+Average GPU memory usage: 12026.13 MB
+Maximum GPU memory usage: 12347.06 MB
+Average F1 score: 0.16872255406146522
+Average latency: 0.7337977981567383 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.16872255406146522
+Average latency (no length exceeded): 0.7337977981567383 seconds
+--------------------------------------------------
+Compression Ratio 0.25 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.4
+Average GPU memory usage: 12202.51 MB
+Maximum GPU memory usage: 13253.68 MB
+Average F1 score: 0.2753494843205423
+Average latency: 1.3665662908554077 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.2753494843205423
+Average latency (no length exceeded): 1.3665662908554077 seconds
+--------------------------------------------------
+Compression Ratio 0.5 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.6
+Average GPU memory usage: 12289.61 MB
+Maximum GPU memory usage: 13878.40 MB
+Average F1 score: 0.3126252782918678
+Average latency: 1.7774066698551179 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.3126252782918678
+Average latency (no length exceeded): 1.7774066698551179 seconds
+--------------------------------------------------
+Compression Ratio 0.75 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.9
+Average GPU memory usage: 12455.16 MB
+Maximum GPU memory usage: 14781.92 MB
+Average F1 score: 0.34804910955233537
+Average latency: 2.69742054104805 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.34804910955233537
+Average latency (no length exceeded): 2.69742054104805 seconds
+--------------------------------------------------
+##################################################
+Dataset: data/llmlingua2/llmlingua_multifieldqa_en.csv
+Compression Ratio 0.1
+Average GPU memory usage: 12007.99 MB
+Maximum GPU memory usage: 12172.70 MB
+Average F1 score: 0.24040018938285732
+Average latency: 1.535576785405477 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.24040018938285732
+Average latency (no length exceeded): 1.535576785405477 seconds
+--------------------------------------------------
+Compression Ratio 0.25 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.4
+Average GPU memory usage: 12100.86 MB
+Maximum GPU memory usage: 12813.84 MB
+Average F1 score: 0.2908260318266777
+Average latency: 1.3240535163879394 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.2908260318266777
+Average latency (no length exceeded): 1.3240535163879394 seconds
+--------------------------------------------------
+Compression Ratio 0.5 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.6
+Average GPU memory usage: 12193.08 MB
+Maximum GPU memory usage: 13798.49 MB
+Average F1 score: 0.32674798441792663
+Average latency: 1.8750230598449706 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.32674798441792663
+Average latency (no length exceeded): 1.8750230598449706 seconds
+--------------------------------------------------
+Compression Ratio 0.75 doesn't exist
+--------------------------------------------------
+Compression Ratio 0.9
+Average GPU memory usage: 12283.33 MB
+Maximum GPU memory usage: 13596.11 MB
+Average F1 score: 0.4157103380316299
+Average latency: 2.208323801358541 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.4157103380316299
+Average latency (no length exceeded): 2.208323801358541 seconds
+--------------------------------------------------
+##################################################
+Dataset: data/random2/random_prune_narrativeqa.csv
+Compression Ratio 0.1
+Average GPU memory usage: 12076.25 MB
+Maximum GPU memory usage: 12937.30 MB
+Average F1 score: 0.10113085200513584
+Average latency: 1.0299961018562316 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.10113085200513584
+Average latency (no length exceeded): 1.0299961018562316 seconds
+--------------------------------------------------
+Compression Ratio 0.25
+Average GPU memory usage: 12288.94 MB
+Maximum GPU memory usage: 14702.99 MB
+Average F1 score: 0.11207257511966251
+Average latency: 1.649946995973587 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.11207257511966251
+Average latency (no length exceeded): 1.649946995973587 seconds
+--------------------------------------------------
+Compression Ratio 0.4
+Average GPU memory usage: 12523.19 MB
+Maximum GPU memory usage: 16761.50 MB
+Average F1 score: 0.10596296568413628
+Average latency: 2.6451966512203215 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.10596296568413628
+Average latency (no length exceeded): 2.6451966512203215 seconds
+--------------------------------------------------
+Compression Ratio 0.5
+Average GPU memory usage: 12634.90 MB
+Maximum GPU memory usage: 17361.25 MB
+Average F1 score: 0.11066003795901308
+Average latency: 3.42789031624794 seconds
+Number of times length exceeded: 18
+Average F1 score (no length exceeded): 0.09828813373813534
+Average latency (no length exceeded): 3.0046769026871565 seconds
+--------------------------------------------------
+Compression Ratio 0.6
+Average GPU memory usage: 12720.45 MB
+Maximum GPU memory usage: 17392.53 MB
+Average F1 score: 0.10300780646487367
+Average latency: 3.796737530231476 seconds
+Number of times length exceeded: 27
+Average F1 score (no length exceeded): 0.10115641948828917
+Average latency (no length exceeded): 3.166920291206051 seconds
+--------------------------------------------------
+Compression Ratio 0.75
+Average GPU memory usage: 12818.65 MB
+Maximum GPU memory usage: 17392.53 MB
+Average F1 score: 0.11637824604039566
+Average latency: 4.553494499921799 seconds
+Number of times length exceeded: 38
+Average F1 score (no length exceeded): 0.11239751875429872
+Average latency (no length exceeded): 3.7427500383353527 seconds
+--------------------------------------------------
+Compression Ratio 0.9
+Average GPU memory usage: 12898.51 MB
+Maximum GPU memory usage: 17361.25 MB
+Average F1 score: 0.11712989094409756
+Average latency: 5.2539885711669925 seconds
+Number of times length exceeded: 55
+Average F1 score (no length exceeded): 0.1113112174666273
+Average latency (no length exceeded): 4.2103903754004115 seconds
+--------------------------------------------------
+##################################################
+Dataset: data/random2/random_prune_triviaqa.csv
+Compression Ratio 0.1
+Average GPU memory usage: 12026.63 MB
+Maximum GPU memory usage: 12463.37 MB
+Average F1 score: 0.40198593073593075
+Average latency: 0.42168635249137876 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.40198593073593075
+Average latency (no length exceeded): 0.42168635249137876 seconds
+--------------------------------------------------
+Compression Ratio 0.25
+Average GPU memory usage: 12115.47 MB
+Maximum GPU memory usage: 13079.17 MB
+Average F1 score: 0.3950036426987646
+Average latency: 0.7708319664001465 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.3950036426987646
+Average latency (no length exceeded): 0.7708319664001465 seconds
+--------------------------------------------------
+Compression Ratio 0.4
+Average GPU memory usage: 12177.49 MB
+Maximum GPU memory usage: 13078.62 MB
+Average F1 score: 0.38871176046176037
+Average latency: 1.0073899281024934 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.38871176046176037
+Average latency (no length exceeded): 1.0073899281024934 seconds
+--------------------------------------------------
+Compression Ratio 0.5
+Average GPU memory usage: 12226.52 MB
+Maximum GPU memory usage: 13865.51 MB
+Average F1 score: 0.39221608946608943
+Average latency: 1.2263930177688598 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.39221608946608943
+Average latency (no length exceeded): 1.2263930177688598 seconds
+--------------------------------------------------
+Compression Ratio 0.6
+Average GPU memory usage: 12278.09 MB
+Maximum GPU memory usage: 14545.15 MB
+Average F1 score: 0.3999541847041847
+Average latency: 1.4303276550769806 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.3999541847041847
+Average latency (no length exceeded): 1.4303276550769806 seconds
+--------------------------------------------------
+Compression Ratio 0.75
+Average GPU memory usage: 12355.12 MB
+Maximum GPU memory usage: 14911.18 MB
+Average F1 score: 0.3966605339105339
+Average latency: 1.7914437019824982 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.3966605339105339
+Average latency (no length exceeded): 1.7914437019824982 seconds
+--------------------------------------------------
+Compression Ratio 0.9
+Average GPU memory usage: 12438.97 MB
+Maximum GPU memory usage: 15747.67 MB
+Average F1 score: 0.4020824632883456
+Average latency: 2.1711277425289155 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.4020824632883456
+Average latency (no length exceeded): 2.1711277425289155 seconds
+--------------------------------------------------
+##################################################
+Dataset: data/random2/random_prune_multifieldqa_en.csv
+Compression Ratio 0.1
+Average GPU memory usage: 11984.19 MB
+Maximum GPU memory usage: 12064.09 MB
+Average F1 score: 0.1875904923699709
+Average latency: 1.2414350922902424 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.1875904923699709
+Average latency (no length exceeded): 1.2414350922902424 seconds
+--------------------------------------------------
+Compression Ratio 0.25
+Average GPU memory usage: 12032.72 MB
+Maximum GPU memory usage: 12515.03 MB
+Average F1 score: 0.1852685668993933
+Average latency: 1.139465061823527 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.1852685668993933
+Average latency (no length exceeded): 1.139465061823527 seconds
+--------------------------------------------------
+Compression Ratio 0.4
+Average GPU memory usage: 12088.05 MB
+Maximum GPU memory usage: 12568.96 MB
+Average F1 score: 0.19597917283230307
+Average latency: 1.5591477235158284 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.19597917283230307
+Average latency (no length exceeded): 1.5591477235158284 seconds
+--------------------------------------------------
+Compression Ratio 0.5
+Average GPU memory usage: 12130.37 MB
+Maximum GPU memory usage: 12869.00 MB
+Average F1 score: 0.18361462787316024
+Average latency: 1.5627187013626098 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.18361462787316024
+Average latency (no length exceeded): 1.5627187013626098 seconds
+--------------------------------------------------
+Compression Ratio 0.6
+Average GPU memory usage: 12164.04 MB
+Maximum GPU memory usage: 12940.26 MB
+Average F1 score: 0.1671472924659547
+Average latency: 1.7095214732487996 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.1671472924659547
+Average latency (no length exceeded): 1.7095214732487996 seconds
+--------------------------------------------------
+Compression Ratio 0.75
+Average GPU memory usage: 12341.02 MB
+Maximum GPU memory usage: 13777.71 MB
+Average F1 score: 0.1916252289696616
+Average latency: 2.9427216545740764 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.1916252289696616
+Average latency (no length exceeded): 2.9427216545740764 seconds
+--------------------------------------------------
+Compression Ratio 0.9
+Average GPU memory usage: 12271.88 MB
+Maximum GPU memory usage: 13771.34 MB
+Average F1 score: 0.1793170325177723
+Average latency: 2.077451818784078 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.1793170325177723
+Average latency (no length exceeded): 2.077451818784078 seconds
+--------------------------------------------------
+##################################################
+Dataset: data/random2/random_prune_hotpotqa.csv
+Compression Ratio 0.1
+Average GPU memory usage: 12029.01 MB
+Maximum GPU memory usage: 12259.24 MB
+Average F1 score: 0.1327851908520908
+Average latency: 1.135085827112198 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.1327851908520908
+Average latency (no length exceeded): 1.135085827112198 seconds
+--------------------------------------------------
+Compression Ratio 0.1
+Average GPU memory usage: 12870.08 MB
+Maximum GPU memory usage: 14231.33 MB
+Average F1 score: 0.13691636107530625
+Average latency: 9.804224206209183 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.13691636107530625
+Average latency (no length exceeded): 9.804224206209183 seconds
+--------------------------------------------------
+Compression Ratio 0.25
+Average GPU memory usage: 12170.61 MB
+Maximum GPU memory usage: 12660.67 MB
+Average F1 score: 0.1539758937351004
+Average latency: 2.1169641387462614 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.1539758937351004
+Average latency (no length exceeded): 2.1169641387462614 seconds
+--------------------------------------------------
+Compression Ratio 0.4
+Average GPU memory usage: 12936.83 MB
+Maximum GPU memory usage: 14247.71 MB
+Average F1 score: 0.16471988591546716
+Average latency: 9.191314463615418 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.16471988591546716
+Average latency (no length exceeded): 9.191314463615418 seconds
+--------------------------------------------------
+Compression Ratio 0.5
+Average GPU memory usage: 12233.65 MB
+Maximum GPU memory usage: 13420.68 MB
+Average F1 score: 0.16171167410385334
+Average latency: 1.522273291349411 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.16171167410385334
+Average latency (no length exceeded): 1.522273291349411 seconds
+--------------------------------------------------
+Compression Ratio 0.6
+Average GPU memory usage: 12274.99 MB
+Maximum GPU memory usage: 13727.43 MB
+Average F1 score: 0.15209196179122836
+Average latency: 1.7639370143413544 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.15209196179122836
+Average latency (no length exceeded): 1.7639370143413544 seconds
+--------------------------------------------------
+Compression Ratio 0.75
+Average GPU memory usage: 12362.45 MB
+Maximum GPU memory usage: 14080.47 MB
+Average F1 score: 0.1664064137449965
+Average latency: 2.185283651351929 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.1664064137449965
+Average latency (no length exceeded): 2.185283651351929 seconds
+--------------------------------------------------
+Compression Ratio 0.9
+Average GPU memory usage: 12439.03 MB
+Maximum GPU memory usage: 14739.73 MB
+Average F1 score: 0.16985238272385975
+Average latency: 2.6726248478889465 seconds
+Number of times length exceeded: 0
+Average F1 score (no length exceeded): 0.16985238272385975
+Average latency (no length exceeded): 2.6726248478889465 seconds
+--------------------------------------------------
